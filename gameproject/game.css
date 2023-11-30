@@ -1,0 +1,13 @@
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 6px solid darkblue ;
+    font-size: 100px;
+    
+}
+
+.tab{
+    padding: 50px;
+    
+}
